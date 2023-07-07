@@ -1,4 +1,4 @@
-# Merge Sort Algorithm
+# Merge Sort 
 O Merge Sort é um algoritmo de classificação eficiente e popular que segue a abordagem de dividir e conquistar. Ele divide a lista não ordenada em pequenas sub-listas, ordena essas sub-listas recursivamente e depois combina-as para obter a lista final ordenada.
 
 # Processo do Merge Sort
