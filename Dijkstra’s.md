@@ -48,7 +48,7 @@ A função dijkstra recebe o grafo representado por um dicionário, onde as chav
     from heapq import heappop, heappush
 
 
-    # A class to store a heap node
+    # Classe node , feita para armazear a heap
     class Node:
         def __init__(self, vertex, weight=0):
             self.vertex = vertex
@@ -59,7 +59,7 @@ A função dijkstra recebe o grafo representado por um dicionário, onde as chav
             return self.weight < other.weight
 
 
-    # A class to represent a graph object
+    # Uma calss que repesenta um objedcto graph
     class Graph:
         def __init__(self, edges, n):
             # allocate memory for the adjacency list
