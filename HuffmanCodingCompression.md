@@ -137,4 +137,4 @@ A compressão de Huffman é um algoritmo utilizado para compactar dados, reduzin
         text = 'Huffman coding is a data compression algorithm.'
         buildHuffmanTree(text)
 
-A compressão de Huffman é amplamente utilizada em algoritmos de compressão de dados, como em formatos de arquivo como o ZIP. Ela é eficiente para reduzir o tamanho de arquivos de texto, especialmente quando há caracteres ou símbolos com frequências de ocorrência muito discrepantes.
+# A compressão de Huffman é amplamente utilizada em algoritmos de compressão de dados, como em formatos de arquivo como o ZIP. Ela é eficiente para reduzir o tamanho de arquivos de texto, especialmente quando há caracteres ou símbolos com frequências de ocorrência muito discrepantes.
